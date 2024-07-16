@@ -43,4 +43,4 @@ Name: Ryan, Founder @ Luaily LLC.
 Date: July 16th, 2024.  
 Contact: [webmaster@pieboi.xyz](mailto:webmaster@pieboi.xyz)
 
-![Signature](./RyanSignature.png)
+<img src="https://github.com/piieboi/project-iris/blob/main/legal/RyanSignature.png" width="280" height="200">
